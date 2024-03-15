@@ -6,6 +6,9 @@
   Email ✉️ : areebkk3438@gmail.com ...
 - ⚡ Fun fact: Creating an Attractive & insightfull Dashboard using Power BI tool ...
 
+
+Connect With me 
+https://www.linkedin.com/in/areeb-murtaza-khan-35317325a
 <!---
 AreebMurtazakhan/AreebMurtazakhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
